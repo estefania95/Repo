@@ -1,5 +1,5 @@
 package net.davidvalles.batalla;
-
+//Estefania Caro
 
 /**
  * Defineix un objecte que es mou per pantalla.
